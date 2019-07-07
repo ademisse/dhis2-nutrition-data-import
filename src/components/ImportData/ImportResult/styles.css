@@ -1,0 +1,7 @@
+.spinner {
+    position: relative;
+    z-index: 10000000;
+    background: url(spinner.gif);
+    width: 32px;
+    height: 32px;
+}
